@@ -78,7 +78,7 @@ var afternoonTea = [
     // },
     {
         text: "Сирники",
-        img: "img/sirniki.jpg"
+        img: "img/cheeseСakes.jpg"
     },
     // {
     //     text: "Пряники"
